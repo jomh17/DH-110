@@ -22,10 +22,11 @@ Handshake is a website where students and recent graduates can look at companies
 |**6. Recognition rather than recall:** Provide all the necessary information in a clear manner so the user does not have to search for the information they need.|**Good:** There are many filters that allow the user to easily see considerations without having to search. There are also sorting functions so that you can view results by relevance, date posted, etc. Each posting has details under it so the user does not need to do additional research. Many headings include short explanations below them for further clarification.|**Improvements:** The site has met this requirement (No priority).|
 |**7. Flexibility and efficiency of use:** Provide shortcuts to make the user's experience more streamlined. This may also include customization or personalization based on the user's preferences.|The first step on the site is to sign into a profile. This tailors the information on the site to the individual user. Most of the jobs, events, students, etc has already gone through initial sorting as a shortcut for the user.|**Improvements:** The discover page is not filtered at all and includes irrelevant postings. This should be rectified to include more pertinent listings.(Level 2 priority)|
 |**8. Aesthetic and minimalist design:** Make sure that the website is clear, readable, and aesthetically pleasing. Eliminate any unnecessary or irrelevant information that clutters the page.|**Good:** The homepage has large font and the message is clear.**Bad:** When scrollng down the homepage, the information provides should be in other tabs, there is too much information on the first page. All other tabs have a lack of aesthetic and color. |**Improvements:** The homepage is way too cluttered and should be simplified. Additional tabs should include more color and design to make it more aesthetic. (Level 2 priority) |
-|**9. Help users recognize, diagnose, and recover from errors:** Any error message should express the problem and how to fix it in clear language.|**Good:** Under the profile button, there is a help tab that includes instructions on how to recover from errors they may encounter|**Improvements:** This should be more clear and listed on the home page. (Level 1 priority)|
+|**9. Help users recognize, diagnose, and recover from errors:** Any error message should express the problem and how to fix it in clear language.|**Good:** Under the profile button, there is a help tab that includes instructions on how to recover from errors they may encounter|**Improvements:** This location should be more clear and listed on the homepage. (Level 1 priority)|
 |**10. Help and documentation:** Provide easy to locate documentation to help with commonly asked questions and allow the user to quickly find answers.| **Good:** There Q&A tab at the top of the homepage. This makes it very quick to access. The largest message on the homepage is "What can we help you find today?" This ensures that the user feels comfortable and says that the website is willing and able to help|**Improvements:** The font size should be increased to make it more prominent.(Level 1 priority)|
 
 ## Severity Ratings in Heuristic Evaluation 
+Priority system used in the chart above
 |Rating|      Importance| 
 |----|------|
 |1|Cosmetic problem only: need not be fixed unless extra time is available on project |
@@ -38,8 +39,11 @@ Credit: Nielson Norman Group- https://www.nngroup.com/articles/how-to-rate-the-s
 
 ## Website 2: Glassdoor
 
-
 Link: https://www.glassdoor.com/index.htm
+
+![Screen Shot 2021-04-06 at 8 25 47 PM](https://user-images.githubusercontent.com/73918238/113806016-6be24e00-9716-11eb-819e-fba47e2181c2.png)
+
+Glassdoor is a competing website where current and former employees rate companies and submit salaries anonymously. It also caters to users seeking to apply for open job listings. This allows users to see what working at a company would be like and seeing if they fit in the atmosphere before applying.
 
 | Heuristics Description | Evaluation  | Improvements  |
 | ---------- | ----------- | -------------|
@@ -56,6 +60,7 @@ Link: https://www.glassdoor.com/index.htm
 
 
 ## Severity Ratings in Heuristic Evaluation 
+Priority system used in the chart above
 |Rating|      Importance| 
 |----|------|
 |1|Cosmetic problem only: need not be fixed unless extra time is available on project |

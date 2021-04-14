@@ -3,7 +3,8 @@
 <h1> Josephine Meyer-Hogan </h1>
 
 <h3> User testing </h3>
-Handshake is a popular platform for students looking for internships, jobs, and connections. The purpose of Handshake is so that its community of alumni can help others find opportunities.
+Handshake is a popular platform for students looking for internships, jobs, and connections. The purpose of Handshake is so that its community of alumni can help others find opportunities.    <br/> <br/>
+
 
 We will be performing a usability test for Handshake. The purpose of a usability test is to identify and learn the weaknesses of a website through a thorough evaluation. A user's perspective allows for a fresh set of eyes looking at the site and illuminates flaws that would not be noticed otherwise. Usability test sessions are recorded so the information won't be misinterpreted, the user's expressions can be saved, and further analysis can be done. The tests consist of a series of questions and tasks that guide the user in interacting with the site and using specific functions. The user audibly describes their thoughts during the questioning, providing live feedback of the user's experience. After this information is collected, the site can be improved so that the future user experience is improved.
 

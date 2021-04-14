@@ -41,14 +41,15 @@ For my usability test, I performed it in my room using my personal MAC laptop. I
 * Site content
 * How the user felt after using site
 
+
 <h3> User testing materials </h3>
 
-The usability materials are [] [here](https://forms.gle/n4unf6rzDn3hcmBo6)
-
-
+The usability materials are [listed] [here](https://forms.gle/n4unf6rzDn3hcmBo6)
 
 <h3> User testing video </h3>
-The pilot test video is ************
+
+The pilot test video is [listed] [here](https://drive.google.com/file/d/1r2pJDJ7s7xLMLgWkgHcjEZdunaOznQPx/view?usp=sharing)
+
 
 <h3> Improving user testing </h3>
 During the pilot test, I learned what usability issues existed for Handshake. For example, prior to testing when I was planning tests, I found the Engineering Events very easily. I thought this would also be the case for the participant. I now believe that different users receive different search results based on the information in their profile. I think this should be changed immediately. There should be an option to filter results based on information but it should not be automatic. Another flaw is the inconsistency in the site's headings. The tabs on the homepage do not match with the tabs on subsequent pages which is very confusing for the user.

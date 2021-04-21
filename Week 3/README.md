@@ -46,7 +46,7 @@ The transcription of the interview is [linked][here]().
 
 
 <h3> <b> Reflection </b> </h3>
-I really enjoyed this activity. The user had much more freedom than in our past tasks. This allowed me to observe their full thought process from start to finish, gaining more insight into the way a typical user would think. There were no preconceptions made by me because I had no clue what the user was going to do. This ensures that the interview has much less bias. The questions asked in this interview were also more specific and focused, engaging the user in a deeper way.
+I really enjoyed this activity. The user had much more freedom than in our past tasks. This allowed me to observe their full thought process from start to finish, gaining more insight into the way a typical user would think. There were no preconceptions made by me because I had no clue what the user was going to do. This ensures that the interview has much less bias. The questions asked in this interview were also more specific and focused, engaging the user in a deeper way. I think it would be beneficial to do this interview multiple times to really get a grasp on the user's thought process. It would also be super cool to go through this type of interview to make sure we are covering all the bases when asking questions. 
 
 
 

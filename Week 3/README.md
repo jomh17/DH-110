@@ -34,15 +34,15 @@ The observation methods I employed included participatory observation and record
 
 
 <h3> <b> Participatory Research Materials </b> </h3>
-1. Contextual Inquiry Guide
+  1. Contextual Inquiry Guide
 
 Please find my script for this interview [linked] [here](https://docs.google.com/document/d/1chLMc_VnPDGN_lol8RuB2RMQM-agHWIzmPjkANKmK7Y/edit?usp=sharing), with an introduction, goals, and contextual questions.
 
 2. User Data
 
-Please find the recording of the interview [linked] [here]("")
+Please find the recording of the interview [linked] [here]()
 
-The transcription of the interview are [linked][here]("").
+The transcription of the interview is [linked][here]().
 
 
 <h3> <b> Reflection </b> </h3>

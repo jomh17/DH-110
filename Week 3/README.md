@@ -40,13 +40,14 @@ Please find my script for this interview [linked] [here](https://docs.google.com
 
   2. User Data
 
-Please find the recording of the interview [linked] [here]()
+Please find the recording of the interview [linked] [here](https://ucla.zoom.us/rec/share/uQCCUl4IC27Bf4EjJsiLS9fT85p-96WHie1xMcTErX5PkG9Hq1g0E4b8qvBpZNFT.siEiDIfG4beoIdO-)
+There should also be a transcript available to download.
 
-The transcription of the interview is [linked][here]().
+My notes for the interview are [linked][here](https://docs.google.com/document/d/1TMXfzf1aO6KEVJiPW0FRiFy8hQcgoxC6g4x0sBZ5dHg/edit?usp=sharing).
 
 
 <h3> <b> Reflection </b> </h3>
-I really enjoyed this activity. The user had much more freedom than in our past tasks. This allowed me to observe their full thought process from start to finish, gaining more insight into the way a typical user would think. There were no preconceptions made by me because I had no clue what the user was going to do. This ensures that the interview has much less bias. The questions asked in this interview were also more specific and focused, engaging the user in a deeper way. I think it would be beneficial to do this interview multiple times to really get a grasp on the user's thought process. It would also be super cool to go through this type of interview to make sure we are covering all the bases when asking questions. 
+I really enjoyed this activity. The user had much more freedom than in our past tasks. This allowed me to observe their full thought process from start to finish, gaining more insight into the way a typical user would think. There were no preconceptions made by me because I had no clue what the user was going to do. This ensures that the interview has much less bias. The questions asked in this interview were also more specific and focused, engaging the user in a deeper way. I think it would be beneficial to do this interview multiple times to really get a grasp on the user's thought process. It would also be super cool to go through this type of interview to make sure we are covering all the bases when asking questions. Another thing I notices was that it was hard to take notes while looking at what the user is doing. Next time I would probably just use the transcript function on zoom or take notes after the recording.
 
 
 

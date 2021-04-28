@@ -31,6 +31,8 @@ cheapest option and bundle the hotel all at once. She was then able to be excite
 
 
 ### James
+Here is a link to James's profile and journey map! [Linked] [here](https://docs.google.com/document/d/1iLBAM62caWL_SlC_suj9QTldcR5DcEDBAD8-7zxiR4w/edit?usp=sharing)
+
 
 
 ### James's Scenario

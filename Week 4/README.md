@@ -12,7 +12,7 @@ and intentional design, when keeping the users in mind.
 
 
 ### BRENDA
-
+Here is a link to Brenda's profile and journey map! [Linked] [here](https://docs.google.com/document/d/1TEcDe6DCamWCuCFwntdDKEFkPhUuaqNjNTjDHtJ9zAo/edit?usp=sharing)
 
 ### Brenda’s Scenario:
 
@@ -28,3 +28,9 @@ Brenda first looks at her calendar to see when she would be able to take off wor
 summer where everyone is free. Then she searches some of her favorite travel blogs for inspiration of where the family should go. 
 She searches a travel comparison site that offers deals so she can compare prices of different trips. This allowed her to find the 
 cheapest option and bundle the hotel all at once. She was then able to be excited for the trip coming up.
+
+
+### James
+
+
+### James's Scenario

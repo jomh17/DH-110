@@ -34,3 +34,12 @@ cheapest option and bundle the hotel all at once. She was then able to be excite
 
 
 ### James's Scenario
+
+Why:
+James has been working all the time. Nights, weekends, holidays, etc. He is new to the investment firm so the partners have been pushing him. When he’s not working, he wants to live it up with his friends. He wants to go out and go on trips. He is looking for something that is quick and easy. He is very excited about traveling and also wants to be able to save trips for the future. He is also trying to coordinate availability with all of his friends. 
+
+How:
+James begins by looking up the best cities to go out and have fun in and goes onto a popular travel site. After he chose the city, he was texting his friends to figure out a time when they could all go. Luckily one of them knew about a really cool travel site. The site connects to your calendar to figure out your availability and can connect with your friends to see when that time overlaps. That allowed them to find a time where they could all go and have fun together. 
+
+
+

@@ -11,7 +11,7 @@ and intentional design, when keeping the users in mind.
 
 
 
-### BRENDA
+### Brenda
 Here is a link to Brenda's profile and journey map! [Linked] [here](https://docs.google.com/document/d/1TEcDe6DCamWCuCFwntdDKEFkPhUuaqNjNTjDHtJ9zAo/edit?usp=sharing)
 
 ### Brenda’s Scenario:

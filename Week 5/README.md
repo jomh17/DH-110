@@ -25,13 +25,13 @@ Here is a link to James's profile and journey map! [Linked] [here](https://docs.
 
 
 
-### Task 1: (this is the pink line on the wireframe)
+### Task 1: (this is the purple line on the wireframe)
 Login to the website as an existing user, use your calendar availability to book a flight and then  share the trip with your friends.
 
-### Task 2: (this is the blue line on the wireframe) 
+### Task 2: (this is the yellow line on the wireframe) 
 Login to the website as an existing user, fill out a profile, find a hotel, using saved info. After find a rental car.
 
-Here is a link to the wireframing of both tasks! [Linked] [here]()
+Here is a link to the wireframing of both tasks! [Linked] [here](https://docs.google.com/document/d/1cvED88dYVO7PFMnsnklRGBPLcOZqoNA1vzkdwAJWKV0/edit?usp=sharing)
 
 Feedback Task 1:
 

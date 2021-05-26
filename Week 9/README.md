@@ -61,7 +61,7 @@ My assignment 7 is [linked][here](https://framer.com/share/Travel-Buddy--73PD0WF
 </br>
 
 ## 10) Pitch video [update the video after recording your presentation]
-My process video is [linked][here]()
+My process video is [linked][here](https://drive.google.com/file/d/18e_2xOcb_AXmut399FOm3y3A1wu23U_v/view?usp=sharing)
 My pitch video is [linked][here](https://drive.google.com/file/d/1ZRg02PnkgJNyWJt2uLregyHHi9c3RSlm/view?usp=sharing)
 My ideas for the future is [liniked][here](https://drive.google.com/file/d/1Kgy2nkBwYxh5b3ba5jQMuo8q70dszy5O/view?usp=sharing)
 </br>

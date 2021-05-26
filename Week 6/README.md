@@ -17,6 +17,21 @@ I tried to choose sizing and spacing relative to the importance of the object. F
 
 
 ## Screens so far
+I began to create my screens in black and white, to give high contrast and make sure all the elements were present. 
+
+
+
+I then started to create a cohesive color scheme. Originally I chose this blue color. Blue to represent water and travel. After receiving user feedback, I realized that this color blue did not pop on the screen. I decided to add more green to give a tropical vibe. 
+
+![Screen Shot 2021-05-10 at 2 36 44 PM](https://user-images.githubusercontent.com/73918238/119726120-9baff700-be25-11eb-9a25-12492a7fd34d.png)
+![Screen Shot 2021-05-10 at 2 37 10 PM](https://user-images.githubusercontent.com/73918238/119725890-57bcf200-be25-11eb-98f5-2f286966d6bc.png)
+</br>
+![Screen Shot 2021-05-10 at 2 36 52 PM](https://user-images.githubusercontent.com/73918238/119725909-5b507900-be25-11eb-84a9-b4102640de83.png)
+![Screen Shot 2021-05-10 at 2 37 03 PM](https://user-images.githubusercontent.com/73918238/119725919-5db2d300-be25-11eb-8bb8-5b217abc946c.png)
+
+
+These are what my final color scheme looks like. I paid very close attention to my user testing and what the users responded to to create this verison. I wanted a brighter looking screen that was still light and could provide a nice color contrast with my darker colors on the screen. 
+
 ![Screen Shot 2021-05-10 at 3 28 20 PM](https://user-images.githubusercontent.com/73918238/117736349-3369e000-b1ac-11eb-8e09-bb69c2a93181.png)
 ![Screen Shot 2021-05-10 at 3 28 39 PM](https://user-images.githubusercontent.com/73918238/117736361-3e247500-b1ac-11eb-8a0a-803f26c98f42.png)
 <br>

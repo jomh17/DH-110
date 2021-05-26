@@ -54,7 +54,7 @@ From my home screen, it was not super clear what Travel Buddy was. Some students
 
 
 # Link to wireframe 
-My prototype is [linked] [here](https://framer.com/projects/Travel-Buddy--1FuYqU0xhOxqcMBpgSy8-eDOha).
+My prototype is [linked] [here](https://framer.com/share/Travel-Buddy--73PD0WFXm6N6I2dJnPGd/OGvEx8Vma).
 
 ## Capability
 My focus of this wireframe was on the first pages of the site, home page, login, sign up, profile, etc. From the wireframe assignment last week, I learned that you need to be incredibly thorough, so I really wanted to make these beginning pages very intitutive and easy to understand. From the starting page, the user is able to sign in or sign up. If they click the sign in button, it then takes you to the home page. If the user clicks the sign up button, it takes them to a sign up page. After they finish signing up they then go to the home page as well. I also created the profile page. So on teh home page, if the user clicks the profile button, it will take them to that page. This was the main focus of my project thus far. Choosing what is on each page and editing down so that there is only the necessary information. Because this is an app and not a website, there is a limited amount of information that can fit onto an iPhone screen. This is an important aspect to take into account and may result in additional pages in the wireframe. 

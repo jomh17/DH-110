@@ -43,6 +43,16 @@ These are what my final color scheme looks like. I paid very close attention to 
 ![Screen Shot 2021-05-10 at 3 28 52 PM](https://user-images.githubusercontent.com/73918238/117736408-5bf1da00-b1ac-11eb-85a1-f7a8bf02ccd3.png)
 ![Screen Shot 2021-05-10 at 3 28 46 PM](https://user-images.githubusercontent.com/73918238/117736412-5e543400-b1ac-11eb-9578-bf1c22c77a98.png)
 
+# Accessibility Test
+![Screen Shot 2021-05-26 at 3 40 22 PM](https://user-images.githubusercontent.com/73918238/119740489-d8391e00-be38-11eb-89e7-3f1b175ee66c.png)![Screen Shot 2021-05-26 at 3 42 09 PM](https://user-images.githubusercontent.com/73918238/119740552-f69f1980-be38-11eb-8bdf-a75d4b807f58.png)
+
+![Screen Shot 2021-05-26 at 3 44 36 PM](https://user-images.githubusercontent.com/73918238/119740753-4d0c5800-be39-11eb-9ef6-8a0ddbf721dd.png)
+
+
+# Impression Test
+From my home screen, it was not super clear what Travel Buddy was. Some students said it was a traveling app about where people might want to go, how to travel well, etc. Some students thought that Travel Buddy was how to find guides and travel parters that would show you around an area. To fix this, I added a small description below the specifiy that it was about flights, hotels, etc. They did not notice that the logo was a marker, as if someone was being placed on a map. They just saw a circle shaped logo. The specfic comments were put into google documents but I am unsure how to access them. 
+
+
 # Link to wireframe 
 My prototype is [linked] [here](https://framer.com/projects/Travel-Buddy--1FuYqU0xhOxqcMBpgSy8-eDOha).
 

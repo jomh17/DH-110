@@ -19,6 +19,8 @@ I tried to choose sizing and spacing relative to the importance of the object. F
 ## Screens so far
 I began to create my screens in black and white, to give high contrast and make sure all the elements were present. 
 
+![IMG_3348](https://user-images.githubusercontent.com/73918238/119738267-4aa7ff00-be35-11eb-8a20-4a809afaa7b9.jpeg)
+![IMG_3347](https://user-images.githubusercontent.com/73918238/119738274-4c71c280-be35-11eb-948b-63ef655f4261.jpeg)
 
 
 I then started to create a cohesive color scheme. Originally I chose this blue color. Blue to represent water and travel. After receiving user feedback, I realized that this color blue did not pop on the screen. I decided to add more green to give a tropical vibe. 
@@ -29,8 +31,11 @@ I then started to create a cohesive color scheme. Originally I chose this blue c
 ![Screen Shot 2021-05-10 at 2 36 52 PM](https://user-images.githubusercontent.com/73918238/119725909-5b507900-be25-11eb-84a9-b4102640de83.png)
 ![Screen Shot 2021-05-10 at 2 37 03 PM](https://user-images.githubusercontent.com/73918238/119725919-5db2d300-be25-11eb-8bb8-5b217abc946c.png)
 
+Then I changed the color to be greener. This is what my color scheme looked like at that point. I thought that this color did not give enough contrast, and that it ended up being too green. I decided to lighten the color and bring more blue into it. 
+![Screen Shot 2021-05-26 at 3 17 48 PM](https://user-images.githubusercontent.com/73918238/119738503-aa9ea580-be35-11eb-888e-5b72731b3ad8.png)
 
-These are what my final color scheme looks like. I paid very close attention to my user testing and what the users responded to to create this verison. I wanted a brighter looking screen that was still light and could provide a nice color contrast with my darker colors on the screen. 
+
+These are what my final color scheme looks like. I paid very close attention to my user testing and what the users responded to to create this verison. I wanted a brighter looking screen that was still light and could provide a nice color contrast with my darker colors on the screen. I also wanted to go with a more monochrome look rather than a complementary one. 
 
 ![Screen Shot 2021-05-10 at 3 28 20 PM](https://user-images.githubusercontent.com/73918238/117736349-3369e000-b1ac-11eb-8e09-bb69c2a93181.png)
 ![Screen Shot 2021-05-10 at 3 28 39 PM](https://user-images.githubusercontent.com/73918238/117736361-3e247500-b1ac-11eb-8a0a-803f26c98f42.png)

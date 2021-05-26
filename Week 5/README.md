@@ -18,10 +18,10 @@ Below are the three features I wanted to integrate into my app.
 
 Additional information for the personas I created is below.
 ### Brenda
-Here is a link to Brenda's profile and journey map! [Linked] [here](https://docs.google.com/document/d/1TEcDe6DCamWCuCFwntdDKEFkPhUuaqNjNTjDHtJ9zAo/edit?usp=sharing)
+Here is a link to Brenda's profile and journey map! Linked [here](https://docs.google.com/document/d/1TEcDe6DCamWCuCFwntdDKEFkPhUuaqNjNTjDHtJ9zAo/edit?usp=sharing)
 
 ### James
-Here is a link to James's profile and journey map! [Linked] [here](https://docs.google.com/document/d/1iLBAM62caWL_SlC_suj9QTldcR5DcEDBAD8-7zxiR4w/edit?usp=sharing)
+Here is a link to James's profile and journey map! Linked [here](https://docs.google.com/document/d/1iLBAM62caWL_SlC_suj9QTldcR5DcEDBAD8-7zxiR4w/edit?usp=sharing)
 
 
 
@@ -34,7 +34,7 @@ I had the users do a practice run before drawing their final route onto the pape
 Login to the website as an existing user, fill out a profile, find a hotel, using saved info. After find a rental car.
 I had the users do a practice run before drawing their final route onto the paper, so the paths would be more clear.
 
-Here is a link to the wireframing of both tasks! [Linked] [here](https://docs.google.com/document/d/1cvED88dYVO7PFMnsnklRGBPLcOZqoNA1vzkdwAJWKV0/edit?usp=sharing)
+Here is a link to the wireframing of both tasks! Linked [here](https://docs.google.com/document/d/1cvED88dYVO7PFMnsnklRGBPLcOZqoNA1vzkdwAJWKV0/edit?usp=sharing)
 
 Feedback Task 1:
 
@@ -47,7 +47,7 @@ Similar to task 1, I did not provide steps to get back to the home page after go
 
 
 Comments from the user:
-The order the pages were in was not very clear to me. It took me a minute to figure out where the next screens were located. I was confused if some of the pages for booking were on external sites or if they were on the app itself. The back button was confusing because it wasn't actually written out. Other than that, I thought that you have a lot of really good pages on the frame. 
+"The order the pages were in was not very clear to me. It took me a minute to figure out where the next screens were located. I was confused if some of the pages for booking were on external sites or if they were on the app itself. The back button was confusing because it wasn't actually written out. Other than that, I thought that you have a lot of really good pages on the frame. "
 
 Conclusion:
 I will definitely make everything much clearer when creating my next wireframe prototype. I think more self trials were needed before I got the user involved. I told the user that the back button was just linked on the screen, so they could go back at any time, but I think that was hard to follow. The next time I do a wireframe, I would have this information printed onto the papers. In my app, I was planning on having the icons be able to take the user back, like I have seen in many apps. I was really focused on trying to include all the pages I would need, that I didn't really focus on the design specfics. I would change this if I were to do it again. 

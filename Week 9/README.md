@@ -2,7 +2,7 @@
 </br>
 
 ## 2) Introduction: a brief information about the project. 
-I am hoping to create a travel app called Travel Buddy that makes it easy to share trips and coordinate with your friends. I want this app to have flights, hotels, experiences, etc so a user only has to use my app to book a trip. I also want to put an emphasis on feedback after a trip is completed. This would allow other users to view experiences and book their trip accordingly. The goal of the app is to make travel as easy as possible, even allowing you to sync your calendar, compare with your friends, and easily find availability.
+I am hoping to create a travel app called Travel Buddy that makes it easy to share trips and coordinate with your friends. I want this app to have flights, hotels, experiences, etc so a user only has to use my app to book a trip. I also want to put an emphasis on feedback after a trip is completed. This would allow other users to view experiences and book their trip accordingly. A super important feature I want to highlight is being able to share and message your friends within the app. It is so hard to coordinate trips with your friends, and that's where Travel Buddy comes in. Being able to share trips, message, and compare calendars with your friends allows your trips to be seamless! The goal of the app is to make travel as easy as possible, even allowing you to sync your calendar, compare with your friends, and easily find travel availability.
 </br>
 
 ## 3) Clear design statement: 
@@ -60,6 +60,7 @@ My assignment 7 is [linked][here]()
 </br>
 
 ## 10) Pitch video [update the video after recording your presentation]
+My video is [linked][here](https://www.icloud.com/iclouddrive/0YI8yXpzQV7gIFbL9sJh5WwSw#110)
 </br>
 
 ## 11) Conclusion: what you learned throughout the process

@@ -46,7 +46,8 @@ My assignment 6 is linked [here](https://github.com/jomh17/DH-110/tree/main/Week
 ## 8) High-fidelity prototype (functional/interactive prototype, assignment07)
 This was a really big step in the development process. Being able to change from a paper wireframe to a fully functional prototype was a very exciting process. Fleshing out exactly what I wanted my site to look like took a lot of time and energy to fully develop. It is a pretty tedious process that involves a lot fo factors, such as user input, color theory, etc. I hope you enjoy what I have created so far. 
 
-My assignment 7 is [linked][here](https://framer.com/share/Travel-Buddy--73PD0WFXm6N6I2dJnPGd/t2YLvtVVl)
+My assignment 7 is linked [here](https://framer.com/share/Travel-Buddy--73PD0WFXm6N6I2dJnPGd/t2YLvtVVl)
+
 </br>
 
 ## 9) Pitch video [update the video after recording your presentation]
@@ -63,5 +64,6 @@ My prototype is linked below
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Travel-Buddy--73PD0WFXm6N6I2dJnPGd/OGvEx8Vma" allowfullscreen></iframe>
 
 </br>
+
 ## 10) Conclusion: what you learned throughout the process
 I learned a lot throughout this process, especially through the final assignment. I had to take the recording a few times, because there were things I missed or functions that worked incorrectly. Creating a pitch and walking someone through the site is a true test to whether or not you and your site are ready. This has been a really cool experience to be able to start from an idea and graduate to a complete app. There is a lot more that goes into app development than I thought at the start of the class. I was able to see a lot of different perspectives, of multiple users, my classmates, heuristic evaluation, etc. This has allowed me to create a comprehensive app. I would not have been successful, if we just jumped right to this step, the intermediate testing was definitely necessary. This task inherently has a lot of freedom, so it was really cool to see where everyone went with the app in mind. In the future, I am looking to continue to develop and make the app more complex. 

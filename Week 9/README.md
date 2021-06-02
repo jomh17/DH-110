@@ -7,10 +7,15 @@ I am hoping to create a travel app called Travel Buddy that makes it easy to sha
 
 ## 3) Clear design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
+One of the main issues my app is trying to fix, is the difficulty planning trips with other people. It is very hard to coordinate scheduling flights, hotels, cars, etc. To address this, I wanted to provide the user with quick and easy conveinence when planning a trip. The app is oriented with an emphasis on sharing, messaging, and conveience of travel planning. There are 4 key features I wanted to include that are listed below. 
+
 Key features of design:
-allowing the user to compare prices from websites they choose and finding experiences within their budget
-allowing the trip details to be shared with others and automatically filled in
-connects with your calendar so you can figure out available dates
+1. allowing the user to compare prices from websites they choose and finding experiences within their budget
+2. allowing the trip details to be shared with others and automatically filled in
+3. connects with your calendar so you can figure out available dates
+4. link calendar with friends for ease of planning
+
+
 </br>
 
 

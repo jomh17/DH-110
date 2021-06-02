@@ -14,7 +14,7 @@ connects with your calendar so you can figure out available dates
 </br>
 
 
-## 4) User research [contextual inquiry, assignment03]:
+## 4) User research 
 Step 1: Specify the main design challenge
 What is the main activity your project would support the users in accomplishing?
 What is the basic need involved for that activity?
@@ -25,32 +25,32 @@ Where would the users do that activity?
 What would the users do to complete that activity?
 Step 3: Pick observation method(s)
 The observation methods I employed included participatory observation and recording. The interview took place over zoom and was recorded to view the facial expressions and thought process of the user throughout the interview.
-My assignment 3 is linked [here](https://github.com/jomh17/DH-110/tree/main/Week%203)
+The methods I used to interview my user is linked [here](https://github.com/jomh17/DH-110/tree/main/Week%203)
 </br>
 
-## 5) UX storytelling [persona+scenario, assignment04]
+## 5) UX storytelling 
 The purpose of UX storytelling is to get in the mindset of the user to better understand them; it allows design teams to gain insights into their users’ thought process and think about how they would approach situations and what they are looking for. This adds additional information for the team such as a user's typical behaviors and actions. This also allows for better brainstorming of functionlities of a site. Defining the users of the site allows for a more specific and intentional design, when keeping the users in mind.
-My assignment 4 is linked [here](https://github.com/jomh17/DH-110/tree/main/Week%204)
+More information about user persona's and profiles is linked [here](https://github.com/jomh17/DH-110/tree/main/Week%204)
 </br>
-## 6) Wireframe and graphic design element variation [assignment05 + part of 06]
+## 6) Wireframe and graphic design element variation 
 Purpose: The purpose of creating and testing this low-fidelity prototype is to verify whether or not the features that I have created are things a user is looking for an making sure the flow of the site/app is intitutive. This will alert the UX team if there are intermediate steps that need to be added, clearer instructions, etc.
-My assignment 5 is linked [here](https://github.com/jomh17/DH-110/tree/main/Week%205)
+My initial wireframe is linked [here](https://github.com/jomh17/DH-110/tree/main/Week%205)
 </br>
 
-## 7) Low-fidelity prototype (wireflow, assignment06)
+## 7) Low-fidelity prototype 
 Prototyping is the logical flow from a low fidelity prototype and provides a more accurate and complete experience for the user. After completing a low fidelity prototype and verifing whether or not the features that I have created are things a user is looking for, I was able to make changes according to the user's feedback and making sure the flow of the site/app is intitutive. Creating a wireframe prototype allows a user to really get a feel for the app including the color scheme, logo, and overall aesthetic value. The user is then able to more accurately make their way through the site, with the wireframing that I wish to include. This is an interesting test to observe, because I am able to see where the user's idea of a flow of the website and my wireframe overlap. This feedback is incredibly helpful and can take your app from prototype to actuality.
 
-My assignment 6 is linked [here](https://github.com/jomh17/DH-110/tree/main/Week%206)
+My prototype is linked [here](https://github.com/jomh17/DH-110/tree/main/Week%206)
 </br>
 
-## 8) High-fidelity prototype (functional/interactive prototype, assignment07)
+## 8) High-fidelity prototype
 This was a really big step in the development process. Being able to change from a paper wireframe to a fully functional prototype was a very exciting process. Fleshing out exactly what I wanted my site to look like took a lot of time and energy to fully develop. It is a pretty tedious process that involves a lot fo factors, such as user input, color theory, etc. I hope you enjoy what I have created so far. 
 
-My assignment 7 is linked [here](https://framer.com/share/Travel-Buddy--73PD0WFXm6N6I2dJnPGd/t2YLvtVVl)
+My prototype is linked [here](https://framer.com/share/Travel-Buddy--73PD0WFXm6N6I2dJnPGd/t2YLvtVVl)
 
 </br>
 
-## 9) Pitch video [update the video after recording your presentation]
+## 9) Pitch video 
 My process video is linked below. 
 <iframe src="https://drive.google.com/file/d/18e_2xOcb_AXmut399FOm3y3A1wu23U_v/preview" width="640" height="480"></iframe>
 

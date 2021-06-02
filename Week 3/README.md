@@ -40,10 +40,10 @@ Please find my script for this interview [linked] [here](https://docs.google.com
 
   2. User Data
 
-Please find the recording of the interview [linked] [here](https://ucla.zoom.us/rec/share/uQCCUl4IC27Bf4EjJsiLS9fT85p-96WHie1xMcTErX5PkG9Hq1g0E4b8qvBpZNFT.siEiDIfG4beoIdO-)
+Please find the recording of the interview linked [here](https://ucla.zoom.us/rec/share/uQCCUl4IC27Bf4EjJsiLS9fT85p-96WHie1xMcTErX5PkG9Hq1g0E4b8qvBpZNFT.siEiDIfG4beoIdO-)
 There should also be a transcript available to download.
 
-My notes for the interview are [linked][here](https://docs.google.com/document/d/1TMXfzf1aO6KEVJiPW0FRiFy8hQcgoxC6g4x0sBZ5dHg/edit?usp=sharing).
+My notes for the interview are linked [here](https://docs.google.com/document/d/1TMXfzf1aO6KEVJiPW0FRiFy8hQcgoxC6g4x0sBZ5dHg/edit?usp=sharing).
 
 
 <h3> <b> Reflection </b> </h3>
